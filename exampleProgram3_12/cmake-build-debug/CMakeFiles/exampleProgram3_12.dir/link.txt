@@ -1,0 +1,1 @@
+C:/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/exampleProgram3_12.dir/main.c.o  -o exampleProgram3_12.exe -Wl,--out-implib,libexampleProgram3_12.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
